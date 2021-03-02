@@ -4,7 +4,7 @@ import {Keys} from '../keys/keys'
 import map from '../css/maps.module.css'
 
 const SimpleMap = ({ location, zoomLevel }) => (
-    <div style={{ height: '40vh', width: '100%' }}>
+    <div style={{ height: '33vh', width: '100%' }}>
         <GoogleMapReact
           bootstrapURLKeys={{ key: Keys.google_maps_key}}
           defaultCenter={location}
