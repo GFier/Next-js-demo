@@ -3,12 +3,12 @@
 ## Scope
 Simple demo for testing next js framework by locating user location, through free Rest-APis, and obtain information such as weather, currency, maps location among many. 
 
-##Install:
+## Install:
 1. Clone repo with your preferred choice: Https or SSH.
 2. npm install.
 
 ## Rest apis url to obtain private keys:
-Add your keys in keys/keys.js.
+Add your private keys in keys/keys.js.
 1. Ip api: https://ipstack.com/
 2. Weather api: https://openweathermap.org/
 3. Exchange api: https://www.exchangerate-api.com/
