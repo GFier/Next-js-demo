@@ -1,7 +1,7 @@
 # Next-js Demo
 
 ## Scope
-Simple demo for testing next js framework by locating user location, through free Rest-APis, and obtain information such as weather, currency, maps location among many. 
+Simple demo for testing Next-js framework by locating user location, through free Rest-APis, and obtain information such as weather, currency, maps location among many. 
 
 ## Install:
 1. Clone repo with your preferred choice: Https or SSH.
