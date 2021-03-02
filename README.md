@@ -16,3 +16,7 @@ Add your private keys in keys/keys.js.
 
 ## Run
 1. npm run dev
+
+## Preview
+![prev1](https://user-images.githubusercontent.com/64488427/109676963-f3590200-7b57-11eb-8edb-ffcefc8d50fd.png)
+![prev2](https://user-images.githubusercontent.com/64488427/109676974-f81db600-7b57-11eb-9858-69b2ce3628d0.png)
