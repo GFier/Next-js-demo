@@ -17,6 +17,7 @@ Add your private keys in keys/keys.js.
 ## Run
 1. npm run dev
 
-## Preview
-![prev1](https://user-images.githubusercontent.com/64488427/109676963-f3590200-7b57-11eb-8edb-ffcefc8d50fd.png)
-![prev2](https://user-images.githubusercontent.com/64488427/109676974-f81db600-7b57-11eb-9858-69b2ce3628d0.png)
+## Preview with flipping cards:
+![prev1](https://user-images.githubusercontent.com/64488427/109678280-39fb2c00-7b59-11eb-9e5d-3b00e816d835.png)
+![prev2](https://user-images.githubusercontent.com/64488427/109678294-3cf61c80-7b59-11eb-83f4-d84cfb69b6ba.png)
+
