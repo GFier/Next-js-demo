@@ -1,7 +1,7 @@
 import Container from '../components/container'
 import Image from 'next/image'
 import Head from 'next/head'
-import Link from 'next/Link'
+import Link from 'next/link'
 import bt_styles from '../css/button.module.css'
 import txt_styles from '../css/animated_text.module.css'
 
