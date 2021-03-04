@@ -1,6 +1,6 @@
 import Container from '../components/container'
 import Navigation from '../components/navigation'
-import {Keys} from '../keys/keys'
+import Keys from '../keys/keys'
 import fetch from 'isomorphic-fetch'
 
 function App({ Component, pageProps, data}) {
